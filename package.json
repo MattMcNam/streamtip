@@ -1,6 +1,6 @@
 {
   "name": "streamtip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS wrapper for the Streamtip API",
   "main": "lib/index.js",
   "keywords": [
